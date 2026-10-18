@@ -1,0 +1,31 @@
+{
+  "name": "EchoFlow · 英语原声剧学习",
+  "short_name": "EchoFlow",
+  "description": "Watch. Listen. Speak. Grow. 英语原声剧学习与追剧工作台",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8F9F5",
+  "theme_color": "#5BA86A",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
